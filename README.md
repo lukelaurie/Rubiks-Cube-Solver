@@ -11,4 +11,10 @@ Cube Inputs:
 
 https://user-images.githubusercontent.com/100880853/185984302-92a9129c-696d-4361-b9f9-72b9ff912ced.mp4
 
+# The Algorithm 
+This program runs a seven step 
+
+# Requirements 
+To run this program, both Python and Pygame need to be installed.
+
 
