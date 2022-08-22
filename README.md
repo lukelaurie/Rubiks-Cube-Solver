@@ -13,7 +13,6 @@ https://user-images.githubusercontent.com/100880853/185984302-92a9129c-696d-4361
 
 # The Algorithm 
 This program utilzes a method known as the beginners method to solve the cube in 7 main steps. The steps are to solve the white cross, white corners, second layer, yellow cross, final edges final, corner alignment then to rotate the corners to complete the solve. https://ruwix.com/the-rubiks-cube/how-to-solve-the-rubiks-cube-beginners-method/
-This program runs a seven step 
 
 # Requirements 
 To run this program, both Python and Pygame need to be installed.
