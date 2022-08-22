@@ -6,3 +6,9 @@ This is a Rubik's Cube Solver implemented with Pythons module Pygame. The user c
 Solver(Sped up):
 
 https://user-images.githubusercontent.com/100880853/185983147-ff34c544-77ed-496b-b5cd-293d4e4c134a.mp4
+
+Cube Inputs: 
+
+https://user-images.githubusercontent.com/100880853/185984302-92a9129c-696d-4361-b9f9-72b9ff912ced.mp4
+
+
